@@ -12,7 +12,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="58%" valign="top">
+    <td width="55%" valign="top">
       <h3>💫 About Me</h3>
       <ul>
         <li>🔭 Building <b>AI-powered solutions</b> that solve real-world problems.</li>
@@ -23,17 +23,18 @@
         <li>⚡ <i>"I believe every project is an opportunity to learn something new."</i></li>
       </ul>
     </td>
-    <td width="42%" align="center" valign="top">
-      <h3>🌐 Connect & Socials</h3>
+    <td width="45%" align="center" valign="top">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="260" alt="Coding GIF" />
+      <br/><br/>
       <p>
-        <a href="mailto:newtechsisir@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="32" alt="Gmail"/></a>
-        <a href="https://instagram.com/satya_sisir__.pvt"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="32" alt="Instagram"/></a>
+        <a href="mailto:newtechsisir@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="Gmail"/></a>
+        <a href="https://instagram.com/satya_sisir__.pvt"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" alt="Instagram"/></a>
         <br/>
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="32" alt="LinkedIn"/>
-        <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="32" alt="YouTube"/>
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="LinkedIn"/>
+        <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="28" alt="YouTube"/>
         <br/>
-        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="32" alt="Discord"/>
-        <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="32" alt="Twitch"/>
+        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="28" alt="Discord"/>
+        <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="28" alt="Twitch"/>
       </p>
       <br/>
       <img src="https://komarev.com/ghpvc/?username=Satyasisir-06&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -56,25 +57,19 @@
 
 ## 📊 GitHub Analytics & Cards
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/Satyasisir-06">
-          <img src="https://raw.githubusercontent.com/Satyasisir-06/Satyasisir-06/stats-output/stats.svg" alt="GitHub Stats Card" width="100%" />
-        </a>
-      </td>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/Satyasisir-06">
-          <img src="https://raw.githubusercontent.com/Satyasisir-06/Satyasisir-06/languages-output/languages.svg" alt="Top Languages Card" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/Satyasisir-06">
+    <img src="https://github-readme-stats.vercel.app/api?username=Satyasisir-06&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats Card" height="175" />
+  </a>
+  <a href="https://github.com/Satyasisir-06">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyasisir-06&layout=compact&theme=dracula&hide_border=false&card_width=320&langs_count=5" alt="Top Languages Card" height="175" />
+  </a>
 </div>
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/Satyasisir-06">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyasisir-06&theme=dracula&hide_border=false" alt="GitHub Streak" width="98%" />
+    <img src="https://streak-stats.demolab.com/?user=Satyasisir-06&theme=dracula&hide_border=false" alt="GitHub Streak" width="98%" />
   </a>
 </div>
 
@@ -151,7 +146,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects-logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
 ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
