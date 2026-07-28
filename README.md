@@ -58,10 +58,10 @@
 ## 📊 GitHub Analytics & Cards
 <div align="center">
   <a href="https://github.com/Satyasisir-06">
-    <img src="https://github-readme-stats.vercel.app/api?username=Satyasisir-06&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats Card" height="175" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Satyasisir-06&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats Card" height="175" />
   </a>
   <a href="https://github.com/Satyasisir-06">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyasisir-06&layout=compact&theme=dracula&hide_border=false&card_width=320&langs_count=5" alt="Top Languages Card" height="175" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Satyasisir-06&layout=compact&theme=dracula&hide_border=false&card_width=320&langs_count=5" alt="Top Languages Card" height="175" />
   </a>
 </div>
 
@@ -146,7 +146,7 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects-logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
 ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white)
